@@ -5,7 +5,7 @@ I'm an AI Engineer with 3+ years of experience building production-grade Generat
 
 I enjoy translating ambiguous business requirements into scalable, data-driven AI solutions — from anomaly detection models running in production to RAG-based chatbots that replace manual workflows.
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack
 
 - **GenAI & Agents:** LangChain, LangGraph, RAG Architectures, Agentic Workflows, OpenAI (GPT-4), Prompt Engineering
 - **Core AI/ML:** PyTorch, TensorFlow, Scikit-learn, Supervised/Unsupervised Learning, Time-series Forecasting, Anomaly Detection, NLP
