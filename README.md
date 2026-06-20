@@ -26,7 +26,7 @@ I enjoy translating ambiguous business requirements into scalable, data-driven A
 **Deep Learning Application**
 - Developed a deep learning-based image classification system to detect solar panel defects such as dust, snow, and physical damage.
 - Automated the defect identification pipeline, reducing manual inspection effort and enabling scalable monitoring.
-- Improved fault-detection speed, helping minimize potential energy losses.
+- •	Improved operational efficiency by enabling faster fault detection and minimizing potential energy losses.
 
 ## 💼 Experience
 
