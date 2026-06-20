@@ -7,7 +7,7 @@ I enjoy translating ambiguous business requirements into scalable, data-driven A
 
 ## 🛠️ Tech Stack
 
-- **GenAI & Agents:** LangChain, LangGraph, RAG Architectures, Agentic Workflows, OpenAI (GPT-4), Prompt Engineering
+- **GenAI & Agents:** LangChain, LangGraph, RAG Architectures, Agentic Workflows, OpenAI, Prompt Engineering
 - **Core AI/ML:** PyTorch, TensorFlow, Scikit-learn, Supervised/Unsupervised Learning, Time-series Forecasting, Anomaly Detection, NLP
 - **Vector Search:** FAISS, Pinecone
 - **Computer Vision:** OpenCV, Deep Learning-based Image Classification
